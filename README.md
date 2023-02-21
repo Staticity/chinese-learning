@@ -3,10 +3,12 @@ some programs to help out with learning mandarin
 
 # instructions
 
-1. install python3: https://www.python.org/downloads/
+- install python3: https://www.python.org/downloads/
 
-2. install program's requirements: `pip install -r requirements.txt`
+- in your terminal, clone this repository and `cd` into the directory
 
-3. run the command: `python3 hackchinese_english_flashcards.py`
+- install program's requirements: `pip3 install -r requirements.txt`
+
+- run the command: `python3 hackchinese_english_flashcards.py`
 
 feel free to reach out to me if any issues come up!
