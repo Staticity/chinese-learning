@@ -1,0 +1,5 @@
+pinyin
+pandas
+pyqt6
+pathlib
+typing
